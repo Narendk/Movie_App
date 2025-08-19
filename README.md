@@ -31,5 +31,5 @@ Context API
 
 **# Clone the repo**
 
-git clone https://github.com/your-username/movie-watchlist.git
+git clone https://github.com/Narendk/Movie_App.git
 
