@@ -1,12 +1,35 @@
-# React + Vite
+**🎬 Movie App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite application that lets you browse movies, search, filter by genre, and manage a personal watchlist using the TMDB API.
+Built with React Hooks, Context API, React Router, and TailwindCSS.
 
-Currently, two official plugins are available:
+**✨ Features**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Movies – Find any movie using the TMDB search API.
 
-## Expanding the ESLint configuration
+🎭 Genre Filter – Quickly filter movies by genre.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📜 Pagination – Browse through multiple pages of popular or searched movies.
+
+📝 Watchlist Management – Add or remove movies from your personal watchlist.
+
+🌙 Tailwind Styling – Responsive and modern UI with light/dark background support.
+
+
+**🚀 Tech Stack**
+
+React
+ (Vite setup)
+
+TailwindCSS
+
+React Router
+
+TMDB API
+
+Context API
+
+**# Clone the repo**
+
+git clone https://github.com/your-username/movie-watchlist.git
+
